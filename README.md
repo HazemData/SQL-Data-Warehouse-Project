@@ -34,7 +34,7 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
       🔹Data Modeling
       🔹Data Analytics
 
-    # 🛠️ Important Links & Tools:
+    **Important Links & Tools:**
 
 
 
