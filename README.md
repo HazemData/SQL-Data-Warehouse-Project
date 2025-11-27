@@ -14,7 +14,7 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
   
   > Project Overview
   
-  >###This project involves:
+   ##This project involves:
 
   
   1-Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
@@ -26,7 +26,7 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
   4-Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
 
-  >🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+  ## This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
       🔹SQL Development
       🔹Data Architect
